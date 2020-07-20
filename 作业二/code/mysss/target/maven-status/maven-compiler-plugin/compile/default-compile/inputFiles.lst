@@ -1,0 +1,11 @@
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/controller/LoginController.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/service/UserService.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/service/ResumeService.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/dao/UserDao.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/pojo/Resume.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/controller/ResumeController.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/dao/ResumeDao.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/service/impl/UserServiceImpl.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/interceptor/LoginIntercepter.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/service/impl/ResumeServiceImpl.java
+/Users/wangzhiqiu/workspace/gitlab/mysss/src/main/java/com/lagou/edu/pojo/User.java

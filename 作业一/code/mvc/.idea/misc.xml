@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Downloads/拉勾课程资料/springmvc上/SpringMVC/代码/springmvc-demo" />
+    <file type="web" url="file://$USER_HOME$/Downloads/拉勾课程资料/springmvc上/SpringMVC/代码/ssm" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../mysss" />
+    <file type="web" url="file://$PROJECT_DIR$/../sss" />
+    <file type="web" url="file://$PROJECT_DIR$/../testsss" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/Downloads/拉勾课程资料/springmvc上/SpringMVC/代码/ssm/pom.xml" />
+        <option value="$USER_HOME$/Downloads/拉勾课程资料/springmvc下/SpringDataJPA/代码/spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/../mysss/pom.xml" />
+        <option value="$PROJECT_DIR$/../testsss/pom.xml" />
+        <option value="$USER_HOME$/Downloads/拉勾课程资料/springmvc上/SpringMVC/代码/springmvc-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+</project>
